@@ -1,0 +1,163 @@
+[{
+  "_id": {
+    "$oid": "6a2bbc04aee4d2697657638b"
+  },
+  "name": "Women Round Neck Cotton Top",
+  "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+  "price": 499,
+  "category": "Women",
+  "subCategory": "Topwear",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "bestseller": true,
+  "image": [
+    "https://res.cloudinary.com/dtrbbbfar/image/upload/v1781251047/ubisnvgnswvz2kheiqmk.png"
+  ],
+  "date": 1781251076409,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2bbd42aee4d2697657638e"
+  },
+  "name": "Men Round Neck Pure Cotton T-shirt",
+  "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+  "price": 449,
+  "category": "Men",
+  "subCategory": "Topwear",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "bestseller": true,
+  "image": [
+    "https://res.cloudinary.com/dtrbbbfar/image/upload/v1781251365/wkwklrg8bylsvb7rcexk.png",
+    "https://res.cloudinary.com/dtrbbbfar/image/upload/v1781251365/bb9gsujwp8mkujwkazql.png",
+    "https://res.cloudinary.com/dtrbbbfar/image/upload/v1781251365/xnsftzhynxysy4cwqmob.png",
+    "https://res.cloudinary.com/dtrbbbfar/image/upload/v1781251365/pgujmoeajtq8gktqqszk.png"
+  ],
+  "date": 1781251394200,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2bbd43aee4d2697657638f"
+  },
+  "name": "Men Round Neck Pure Cotton T-shirt",
+  "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+  "price": 449,
+  "category": "Men",
+  "subCategory": "Topwear",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "bestseller": true,
+  "image": [
+    "https://res.cloudinary.com/dtrbbbfar/image/upload/v1781251366/zxy5hin5m5gv4tthrhma.png",
+    "https://res.cloudinary.com/dtrbbbfar/image/upload/v1781251366/p3ntxmnvoamu0xt2on63.png",
+    "https://res.cloudinary.com/dtrbbbfar/image/upload/v1781251366/qh0qntwdbgyy9v3jaya9.png",
+    "https://res.cloudinary.com/dtrbbbfar/image/upload/v1781251366/fzf4xnub9onawp2fufb9.png"
+  ],
+  "date": 1781251395307,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2bbd7baee4d26976576390"
+  },
+  "name": "Girls Round Neck Cotton Top",
+  "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+  "price": 269,
+  "category": "Kids",
+  "subCategory": "Topwear",
+  "sizes": [
+    "XL",
+    "XXL",
+    "M",
+    "S",
+    "L"
+  ],
+  "bestseller": true,
+  "image": [
+    "https://res.cloudinary.com/dtrbbbfar/image/upload/v1781251422/dkpfnvtvu6mwgmlnfb2f.png"
+  ],
+  "date": 1781251451798,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2bbe04aee4d26976576392"
+  },
+  "name": "Men Round Neck Pure Cotton T-shirt",
+  "description": "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+  "price": 399,
+  "category": "Men",
+  "subCategory": "Topwear",
+  "sizes": [
+    "M",
+    "S",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "bestseller": true,
+  "image": [
+    "https://res.cloudinary.com/dtrbbbfar/image/upload/v1781251559/lmgw7gs2kruwy4w4xsa4.png"
+  ],
+  "date": 1781251588612,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2cfbf87399c1dfee0b59f3"
+  },
+  "name": "kids",
+  "description": "kids",
+  "price": 599,
+  "category": "Kids",
+  "subCategory": "Topwear",
+  "sizes": [
+    "S",
+    "M",
+    "L"
+  ],
+  "bestseller": true,
+  "image": [
+    "https://res.cloudinary.com/dtrbbbfar/image/upload/v1781332954/tqytthiofdee1dlod2sp.png"
+  ],
+  "date": 1781332984465,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a2cfbfb7399c1dfee0b59f4"
+  },
+  "name": "kids",
+  "description": "kids",
+  "price": 599,
+  "category": "Kids",
+  "subCategory": "Topwear",
+  "sizes": [
+    "S",
+    "M",
+    "L"
+  ],
+  "bestseller": true,
+  "image": [
+    "https://res.cloudinary.com/dtrbbbfar/image/upload/v1781332957/m0z1ta8l1vsd7mn4ucp3.png"
+  ],
+  "date": 1781332987538,
+  "__v": 0
+}]
